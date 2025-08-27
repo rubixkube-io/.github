@@ -1,5 +1,5 @@
 # :wave: Welcome to RubixKube
-![](https://github.com/user-attachments/assets/82d4b0d4-914c-4d44-bd22-1c5d77bf0df8)
+![](./449556036-82d4b0d4-914c-4d44-bd22-1c5d77bf0df8.png)
 
 ## 
 Built for modern teams, **RubixKube** is your AI-powered 24/7 Autonomous SRE for managing your software infrastructure and complex cloud-native systems.
