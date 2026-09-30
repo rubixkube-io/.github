@@ -1,30 +1,33 @@
 # :wave: Welcome to RubixKube
 ![](../449556036-82d4b0d4-914c-4d44-bd22-1c5d77bf0df8.png)
 
-Built for modern teams, **RubixKube** is your AI-powered 24/7 Autonomous SRE for managing your software infrastructure and complex cloud-native systems.
+RubixKube builds **Site Reliability Intelligence**: software that watches your infrastructure, explains what broke with the evidence behind it, and helps you fix it. We make two products, RubixKube and Kepler.
 
 _Always On. Always Learning. Always Acting._
 
-RubixKube is a living, evolving system.
-It stays awake, always watching for issues in real-time.
-It learns from incidents, adapts to patterns, and gets smarter with every task.
-And it acts carefully, intelligently, and with full transparency.
+## RubixKube
 
-For developers, that means faster deployments, easier debugging, and no need to be an infra expert.
-For SREs and platform teams, it cuts the noise, reduces repetitive work, and helps scale operations without burning out.
+Your infrastructure, healing itself. RubixKube is an AI SRE that runs 24/7 alongside your team.
 
-RubixKube brings clarity to cloud chaos.
-It makes your infrastructure reliable, responsive, and ready for whatever comes next.
+- **Connects everywhere you run.** One lightweight observer for Kubernetes, Linux and macOS machines, AWS, GCP and Azure.
+- **Finds the root cause, with proof.** When something breaks, RubixKube opens an incident and writes a root cause analysis that shows the evidence, not just an alert.
+- **Turns findings into fixes.** Each analysis comes with concrete actions, and RubixKube checks whether the fix held before it closes the incident.
+- **Answers in plain language.** Ask Rubix about your infrastructure in chat, or from Cursor and Claude Code with [rubixkube-for-ai](https://github.com/rubixkube-io/rubixkube-for-ai).
+- **Works with your tools.** Slack, Microsoft Teams, PagerDuty, GitHub, GitLab, Linear, Datadog, Grafana, Prometheus, Sentry and more.
 
-Because in today’s world, where infrastructure keeps growing but teams stay lean, RubixKube isn’t just helpful.
-It’s how the next generation of software gets run.
+[Get started](https://docs.rubixkube.ai/getting-started/quickstart) · [Console](https://console.rubixkube.ai) · [Docs](https://docs.rubixkube.ai) · [rubixkube.ai](https://rubixkube.ai)
 
-## Products
+## Kepler
 
-| | |
-| --- | --- |
-| **RubixKube** | Autonomous SRE for Kubernetes, VMs and cloud. [Console](https://console.rubixkube.ai) · [Docs](https://docs.rubixkube.ai) |
-| **Kepler** | Talk to your infrastructure from your desktop or terminal. [Website](https://trykepler.rubixkube.ai) · [Download](https://github.com/rubixkube-io/kepler-releases/releases) |
+The SRE IDE. Kepler is a desktop agent that learns your infrastructure, watches it while you're away, and flags problems before they escalate.
+
+- **Talk to your infrastructure.** Work with your servers and clusters in one place, locally or over SSH.
+- **Watchers** keep an eye on what matters and tell you when something changes.
+- **War room** brings the context of an incident together while you work it.
+
+Open beta for macOS (Apple silicon), Windows and Linux.
+
+[Download](https://trykepler.rubixkube.ai/downloads/) · [Docs](https://docs.rubixkube.ai/kepler/overview) · [trykepler.rubixkube.ai](https://trykepler.rubixkube.ai)
 
 ## Get help
 
@@ -33,6 +36,6 @@ It’s how the next generation of software gets run.
 | Report a bug | [rubixkube-io/community](https://github.com/rubixkube-io/community/issues/new/choose) |
 | Share feedback or an idea | [Discussions → Ideas](https://github.com/rubixkube-io/community/discussions/categories/ideas) |
 | Chat about Kepler | [Kepler Discord](https://discord.gg/nRcFFrn2M) |
-| Chat about RubixKube | [RubixKube Slack](https://rubixkube-community.slack.com) |
+| Chat about RubixKube | [RubixKube Slack](https://join.slack.com/t/rubixkubecommunity/shared_invite/zt-3fq7kiu8k-RC5uzLY6BjQFE5Uq_NziEA) |
 | Report a security problem | [security@rubixkube.ai](mailto:security@rubixkube.ai), please not a public issue |
 | Get account help | [support@rubixkube.ai](mailto:support@rubixkube.ai) |
