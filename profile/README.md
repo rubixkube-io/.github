@@ -25,7 +25,6 @@ It’s how the next generation of software gets run.
 | --- | --- |
 | **RubixKube** | Autonomous SRE for Kubernetes, VMs and cloud. [Console](https://console.rubixkube.ai) · [Docs](https://docs.rubixkube.ai) |
 | **Kepler** | Talk to your infrastructure from your desktop or terminal. [Website](https://trykepler.rubixkube.ai) · [Download](https://github.com/rubixkube-io/kepler-releases/releases) |
-| **Observer** | The lightweight agent that watches your environments. [Releases](https://github.com/rubixkube-io/observer-releases/releases) |
 
 ## Get help
 
